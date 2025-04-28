@@ -29,4 +29,5 @@ declare class Can {
   emit: Function;
 }
 
+
 export = Can;
